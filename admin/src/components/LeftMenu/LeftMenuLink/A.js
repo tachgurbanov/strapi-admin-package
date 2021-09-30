@@ -15,14 +15,14 @@ const A = styled.a`
   -webkit-font-smoothing: antialiased;
 
   &:hover {
-    color: ${props => props.theme.main.colors.blue};
+    color: ${props => props.theme.main.colors.white};
     background: ${props => props.theme.main.colors.leftMenu['link-hover']};
     border-left: 0.3rem solid ${props => props.theme.main.colors.strapi.blue};
     text-decoration: none;
   }
 
   &:focus {
-    color: ${props => props.theme.main.colors.blue};
+    color: ${props => props.theme.main.colors.white};
     text-decoration: none;
   }
 
@@ -31,9 +31,8 @@ const A = styled.a`
   }
 
   &.linkActive {
-    color: ${props => props.theme.main.colors.leftMenu['link-color']}; !important;
+    color: white !important;
     border-left: 0.3rem solid ${props => props.theme.main.colors.strapi.blue};
-    background: ${props => props.theme.main.colors.leftMenu['link-hover']};
   }
 `;
 
