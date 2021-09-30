@@ -14,12 +14,12 @@ const Wrapper = styled.div`
   left: 0;
   height: 100vh;
   width: ${props => props.theme.main.sizes.leftMenu.width};
-  background: ${props => props.theme.main.colors.strapi['blue-darker']};
+  background: ${props => props.theme.main.colors.strapi['white']};
 
   /* scrollbar overrides */
   * {
     ::-webkit-scrollbar {
-      width: 7px;
+      width: 4px;
     }
 
     ::-webkit-scrollbar-track,

@@ -223,7 +223,7 @@
   "app.components.LeftMenuLinkContainer.noPluginsInstalled": "Entek plugin gurulmady",
   "app.components.LeftMenuLinkContainer.plugins": "Pluginler",
   "app.components.LeftMenuLinkContainer.settings": "Sazlamalar",
-  "app.components.LeftMenuLinkContainer.singleTypes": "leeke görnüşler",
+  "app.components.LeftMenuLinkContainer.singleTypes": "Ýeke-täk görnüşler",
   "app.components.ListPluginsPage.deletePlugin.description": "Plagini aýyrmak üçin birnäçe sekunt gerek bolup biler.",
   "app.components.ListPluginsPage.deletePlugin.title": "Aýyrmak",
   "app.components.ListPluginsPage.description": "Taslamada gurlan pluginleriň sanawy.",
