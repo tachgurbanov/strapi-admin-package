@@ -19,6 +19,7 @@ import pt from './pt.json';
 import ru from './ru.json';
 import th from './th.json';
 import tr from './tr.json';
+import tk from './tk.json';
 import vi from './vi.json';
 import zhHans from './zh-Hans.json';
 import zh from './zh.json';
@@ -48,6 +49,7 @@ const trads = {
   sk,
   th,
   tr,
+  tk,
   uk,
   vi,
   'zh-Hans': zhHans,
@@ -77,6 +79,7 @@ export const languageNativeNames = {
   sk: 'Slovenčina',
   th: 'ไทย',
   tr: 'Türkçe',
+  tk: 'Türkmençe',
   uk: 'Українська',
   vi: 'Tiếng Việt',
   'zh-Hans': '中文 (简体)',
